@@ -6,7 +6,7 @@ from datetime import datetime
 data_hora_formatada = datetime.now().strftime("%d/%m/%Y às %H:%M")
 
 # Token de acesso do GitHub (use variável de ambiente por segurança)
-token = os.getenv("GITHUB_TOKEN")
+token = "INSIRA_SEU_TOKEN_AQUI"
 
 # Diretório de trabalho atual
 caminho_base = os.getcwd()
