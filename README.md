@@ -81,13 +81,16 @@ token = "INSIRA_SEU_TOKEN_AQUI"
 
 ### 📘 Exemplo de entrada
 
+```
 - Digite o quilômetro inicial: 1000
 - Digite o quilômetro final: 1050
 - Digite quanto você recebeu da Uber: 80
 - Digite o valor da gasolina: 6.19
+```
 
 ###  🧾 Exemplo de saída
 
+```
 - Você consumiu 1.09 Litros
 - Você gastou R$ 6.75
 - Você tem que enviar para Kelv: R$ 45.37
@@ -95,15 +98,18 @@ token = "INSIRA_SEU_TOKEN_AQUI"
 - Seu rendimento foi: 3.47
 - Seu lucro real: R$ 33.12
 - Sua margem de lucro (por dupla) é: 41.4%
+```
 
 ###  📁 Estrutura do Projeto
 
+```
 📁 uber-gasto-tracker/
-├── lucro.txt                  
-├── Rendimentos.txt             
-├── margem_de_lucro_percentual.txt  
+├── lucro.txt
+├── Rendimentos.txt
+├── margem_de_lucro_percentual.txt
 ├── main.py                     # Arquivo principal do código
 └── README.md                   # Este arquivo (documentação)
+```
 
 
 ## 📌 Autor
